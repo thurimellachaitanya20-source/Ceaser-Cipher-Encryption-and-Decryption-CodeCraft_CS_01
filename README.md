@@ -1,4 +1,28 @@
 # CodeCraft_CS_01
+# Caesar Cipher Encryption & Decryption Tool
+
+A lightweight Python implementation of the classic Caesar Cipher cryptographic algorithm. This tool allows users to encrypt and decrypt plain text messages using customizable positional shift keys, demonstrating fundamental concepts of substitution ciphers and data security.
+
+---
+
+## 📌 Features
+
+- **Bidirectional Transformation:** Encrypt plaintext or decrypt ciphertext.
+- **Custom Shift Values:** Supports any integer key for dynamic alphabet shifting.
+- **Character Preservation:** Preserves case sensitivity (uppercase/lowercase) and retains spaces, numbers, and punctuation intact.
+- **Interactive CLI:** Simple command-line interface for testing sample inputs and reviewing immediate outputs.
+
+---
+
+## 📁 Repository Structure
+
+```text
+├── caesar_cipher.py          # Core Python script containing cipher logic
+├── Caesar_Cipher_Report.pdf  # Detailed technical project documentation and analysis
+├── Output file Example       # Sample test executions and verified cipher results
+└── README.md                 # Project documentation
+
+
 It's an encryption and decryption of text or sentences.
 
 About: Caesar Cipher Implementation
